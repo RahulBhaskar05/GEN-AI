@@ -22,3 +22,5 @@ This repository contains solutions for the 2026 Generative AI Challenge, coverin
 - **Type:** Core Creative
 - **Objective:** Use generative AI to design posters for a fictional concept, refining initial ideas into a polished final output.
 - **Deliverables:** 2–3 initial poster concepts, 1 final poster, short rationale explaining design decisions.
+
+https://colab.research.google.com/drive/1PiKLRTJlI5847LctY4QsUDxsl--NMytV?usp=sharing
